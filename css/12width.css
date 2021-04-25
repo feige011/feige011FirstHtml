@@ -1,0 +1,104 @@
+.row1 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*1 - 10px);
+    display: block;
+    float: left;
+}
+.row2 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*2 - 10px);
+    display: block;
+    float: left;
+}
+
+.row3 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*3 - 10px);
+    display: block;
+    float: left;
+}
+
+.row4 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*4 - 10px);
+    display: block;
+    float: left;
+}
+
+.row5 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*5 - 10px);
+    display: block;
+    float: left;
+}
+
+.row6 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*6 - 10px);
+    display: block;
+    float: left;
+}
+
+.row7 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*7 - 10px);
+    display: block;
+    float: left;
+}
+
+.row8 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*8 - 10px);
+    display: block;
+    float: left;
+}
+
+.row9 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*9 - 10px);
+    display: block;
+    float: left;
+}
+
+.row10 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*10 - 10px);
+    display: block;
+    float: left;
+}
+
+.row11 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*11 - 10px);
+    display: block;
+    float: left;
+}
+.row12 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/12)*12 - 10px);
+    display: block;
+    float: left;
+}
+
+/*div{*/
+/*    float: left;*/
+/*}*/
+
+/*16/12=x/10*/
+/*960/12=80*/
+/*60 140*/
+
+
+
