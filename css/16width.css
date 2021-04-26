@@ -1,0 +1,133 @@
+.row1_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*1 - 10px);
+    display: block;
+    float: left;
+}
+.row2_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*2 - 10px);
+    display: block;
+    float: left;
+}
+
+.row3_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*3 - 10px);
+    display: block;
+    float: left;
+}
+
+.row4_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*4 - 10px);
+    display: block;
+    float: left;
+}
+
+.row5_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*5 - 10px);
+    display: block;
+    float: left;
+}
+
+.row6_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*6 - 10px);
+    display: block;
+    float: left;
+}
+
+.row7_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*7 - 10px);
+    display: block;
+    float: left;
+}
+
+.row8_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*8 - 10px);
+    display: block;
+    float: left;
+}
+
+.row9_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*9 - 10px);
+    display: block;
+    float: left;
+}
+
+.row10_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*10 - 10px);
+    display: block;
+    float: left;
+}
+
+.row11_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*11 - 10px);
+    display: block;
+    float: left;
+}
+.row12_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*12 - 10px);
+    display: block;
+    float: left;
+}
+.row13_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*13 - 10px);
+    display: block;
+    float: left;
+}
+.row14_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*14 - 10px);
+    display: block;
+    float: left;
+}
+.row15_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*15 - 10px);
+    display: block;
+    float: left;
+}
+.row16_16 {
+    margin: 0 10px;
+    padding: 0;
+    width: calc((100%/16)*16 - 10px);
+    display: block;
+    float: left;
+}
+
+
+/*div{*/
+/*    float: left;*/
+/*}*/
+
+/*16/12=x/10*/
+/*960/12=80*/
+/*60 140*/
+
+
+
